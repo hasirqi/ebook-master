@@ -14,14 +14,6 @@ This repository contains my personal favorite eBooks, including Chinese, English
 - `english/`  English eBooks.
 - `mongolian/`  Mongolian eBooks.
 
-## 图片展示 | Gallery
-
-![示例图片1](images/sample1.jpg)
-![示例图片2](images/sample2.jpg)
-
-> 请将你喜欢的电子书封面图片放在 `images/` 文件夹下，并在此处展示。
-> Please put your favorite eBook cover images in the `images/` folder and display them here.
-
 ## 说明 | Notes
 
 - 所有电子书均来源于网络，仅为个人学习和交流之用。
